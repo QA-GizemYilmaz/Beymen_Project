@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+    <locator name="searchBox" type="id">search-input</locator>
+    <!-- Diğer öğe tanımlamaları buraya eklenebilir -->
+</locators>
